@@ -39,7 +39,7 @@ There are some known data issues with few tables. Data cleaning was performed an
 
 ## Entity Relationship Diagram
 
-![ERD_schema](/ERD_schema.jpg)
+![ERD_schema](./ERD_schema.jpg)
 
 
 ## Conclusion
