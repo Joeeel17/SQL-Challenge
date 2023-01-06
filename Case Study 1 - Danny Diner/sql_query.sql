@@ -157,7 +157,7 @@ WITH cte_points AS (
 					WHEN mn.product_name = 'sushi' THEN mn.price * 20
 					ELSE mn.price * 10
 				END
-			ELSE (mn.price * 20) 	-- first week
+			ELSE (mn.price * 20) 			-- first week
 		END
 	) AS points
 	FROM members AS mm
