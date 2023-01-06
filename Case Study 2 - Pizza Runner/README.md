@@ -1,5 +1,5 @@
 # SQL-Challenge
-Case Study 2 question and answers from #8WeekSQLChallenge by Danny Ma
+Case Study 2 Questions from #8WeekSQLChallenge by Danny Ma
 (https://8weeksqlchallenge.com/case-study-2/)
 
 ## Introduction
