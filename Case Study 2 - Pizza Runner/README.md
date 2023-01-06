@@ -23,14 +23,14 @@ There are some known data issues with few tables. Data cleaning was performed an
 
 **customer_orders table**
 
-![customer_orders](/Snippets/customer_orders.png)
+![customer_orders](./Snippets/customer_orders.png)
 
 - The order_time needs to be separated by time and date respectively
 - The exclusions and extras columns have blanks and null values, hence needing to standardize the null values. 
 
 **runner_orders table**
 
-![runner_orders](/Snippets/runner_orders.png)
+![runner_orders](./Snippets/runner_orders.png)
 
 - The pickup_time needs to be separated by time and date respectively. 
 - The pickup_time, distance, duration and cancellation columns have blanks and null values, hence needing to standardize the null values.
@@ -45,8 +45,8 @@ There are some known data issues with few tables. Data cleaning was performed an
 ## Conclusion
 **new_customer_orders table**
 
-![new_customer_orders](/Snippets/res_new_customer_orders.png)
+![new_customer_orders](./Snippets/res_new_customer_orders.png)
 
 **new_customer_orders table**
 
-![new_runner_orders](/Snippets/res_new_runner_orders.png)
+![new_runner_orders](./Snippets/res_new_runner_orders.png)
