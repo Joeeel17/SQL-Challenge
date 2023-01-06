@@ -30,7 +30,7 @@ There are some known data issues with few tables. Data cleaning was performed an
 
 **runner_orders table**
 
-![runner_orders](/Snippets/runner_orders.png)
+![runner_orders](/Case Study 2 - Pizza Runner/Snippets/runner_orders.png)
 
 - The pickup_time needs to be separated by time and date respectively. 
 - The pickup_time, distance, duration and cancellation columns have blanks and null values, hence needing to standardize the null values.
